@@ -1,9 +1,9 @@
 # triplex
 
-## How to compile.
+## How to compile
 
 g++ triplex.cpp -o triplex
 
-## How to run.
+## How to run
 
 ./triplex
