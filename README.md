@@ -1,4 +1,4 @@
-# triplex
+# Triple X
 
 Game based on the Unreal course:
 Game number '1'
